@@ -1,4 +1,4 @@
 [core]
     remote = local_remote
 ['remote "local_remote"']
-    url = /home/weed/dvc-storage
+    url = ssh://weed@100.75.140.53/home/weed/dvc-storage
