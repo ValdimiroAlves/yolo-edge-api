@@ -23,3 +23,6 @@ images/
 preprocessing/outputs/
 __pycache__/
 runs/
+preprocessing/outputs/
+__pycache__/
+runs/
