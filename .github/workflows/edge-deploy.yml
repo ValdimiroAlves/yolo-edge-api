@@ -165,7 +165,7 @@ jobs:
 
 
       - name: Instalar dependências
-        run: pip install ultralytics "dvc[ssh]==3.55.2" "pygtrie==2.5.0"
+        run: pip install ultralytics "dvc[ssh]==3.67.1" "pygtrie==2.5.0"
 
       - name: Recuperar modelo via DVC
         run: |
